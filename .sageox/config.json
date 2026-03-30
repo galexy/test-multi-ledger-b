@@ -1,0 +1,11 @@
+{
+  "config_version": "2",
+  "repo_id": "repo_019d3d04-c06d-735b-8c58-1953fe121d56",
+  "repo_remote_hashes": [
+    "sha256:866a669fdc7b2d7b95db08160b14a0833d42b6d30b0fb8b2fc37e96bd923a7bb"
+  ],
+  "team_id": "team_c4oftcprlv",
+  "team_name": "Walk on 20260209a",
+  "endpoint": "https://test.sageox.ai",
+  "update_frequency_hours": 24
+}

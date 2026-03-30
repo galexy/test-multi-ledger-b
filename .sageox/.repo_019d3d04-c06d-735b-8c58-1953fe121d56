@@ -1,0 +1,28 @@
+{
+  "repo_id": "repo_019d3d04-c06d-735b-8c58-1953fe121d56",
+  "type": "git",
+  "init_at": "2026-03-30T04:33:35Z",
+  "init_by_email": "ajit+20260209a@sageox.ai",
+  "init_by_name": "Ajit Banerjee",
+  "repo_salt": "8a43dd80f24a31abe33df4cb55ef596eb48996ea",
+  "endpoint": "https://test.sageox.ai",
+  "fingerprint": {
+    "first_commit": "8a43dd80f24a31abe33df4cb55ef596eb48996ea",
+    "monthly_checkpoints": {
+      "2026-03": "8a43dd80f24a31abe33df4cb55ef596eb48996ea"
+    },
+    "ancestry_samples": [
+      "8a43dd80f24a31abe33df4cb55ef596eb48996ea"
+    ],
+    "remote_hashes": [
+      "sha256:866a669fdc7b2d7b95db08160b14a0833d42b6d30b0fb8b2fc37e96bd923a7bb"
+    ]
+  },
+  "team_urls": {
+    "Internal Engineering Team": "https://git.test.sageox.ai/sageox-team_vibl8z7ydv/team-context.git",
+    "Walk on 20260209a": "https://git.test.sageox.ai/sageox-team_c4oftcprlv/team-context.git"
+  },
+  "urls_cached_at": "2026-03-30T04:33:36Z",
+  "version": "0.5.1",
+  "updated_at": "2026-03-30T04:33:36Z"
+}
